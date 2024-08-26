@@ -4,6 +4,12 @@ _**Uso básico de Arrays y Objetos**_<br>
 Realizado con HTML, CSS y JS.<br>
 Desafío Front-End G17 - Desafío Latam<br>
 
+<p>En este desafío validaremos nuestros conocimientos sobre la estructura y utilidad de un Array,
+además de la estructura y utilidad de un Objeto. Para lograrlo, necesitarás aplicar la iteración
+sobre arreglos y objetos utilizando de apoyo el archivo Apoyo Desafío - Uso Básico de Arrays
+y Objetos.</p>
+
+
 Realizado por [cristiandpto23](https://github.com/cristiandpto23)<br>
 Desplegado en GitHub Pages [aquí](https://cristiandpto23.github.io/desafio-uso-basico-de-arrays-y-objetos/)<br>
 
